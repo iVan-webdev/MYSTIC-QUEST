@@ -1,0 +1,162 @@
+Co-authored-by: Gemini <noreply@google.com>
+
+template/prototipe awal untuk lore game digenerate melalui geminii ai.
+
+
+prompt :
+Gemini, berikut merupakan ai generated image yang merupakan concept dari 
+tugas kelompok kami (matkul PBO) yaitu tugas  membuat game di greenfoot.
+Berdasarkan konsep di gambar ini, coba buatkan alur (lore) lengkap gamenya
+dari paling awal, sampai menuju stage akhir yaitu final boss.
+
+Temanya memang agak seperti game story yang setiap
+stage musuhnya berbeda. Buatkan 2 versi agar nanti
+bisa kupilih final nya. 
+
+
+output dari gemini :
+
+
+Konsep game ini sangat solid dan runtut untuk skala tugas kelompok PBO di Greenfoot! Struktur 6 stage beserta mekanisme tantangannya (Memory, Pattern, Attention, Math & Problem Solving, Logic, hingga All Skills) memudahkan pembagian kelas/objek di Greenfoot.
+
+Berikut 2 opsi alur cerita (*lore*) lengkap dari awal petualangan Ari hingga pertempuran melawan Forgettor di *Shadow Castle*:
+
+---
+
+### Versi 1: "The Shattered Mind of Cogitata" (Gaya Heroik & Quest Klasik)
+
+**Latar Belakang World:**
+Dunia Cogitata dahulunya adalah alam yang damai di bawah lindungan *Crystal of Knowledge*, sumber ilmu pengetahuan, logika, dan ingatan bagi seluruh penghuninya. **Forgettor**, salah satu penjaga kristal, merasa kecewa dan iri karena manusia serta makhluk Cogitata kerap meremehkan dan menyalahgunakan pengetahuan. Ia memecahkan *Crystal of Knowledge* menjadi pecahan-pecahan (*Crystal Shards*), mengutuk seluruh penjuru negeri dengan kabut kelupaan dan ketidaklogisan. **Lumi**, peri penjaga yang tersisa, memilih **Ari**—seorang anak pemberani—untuk mengumpulkan kembali pecahan kristal dan memulihkan kesadaran dunia.
+
+---
+
+#### Alur Perjalanan Stage:
+
+1. **Prolog & Stage 1: Memory Forest**
+* **Cerita:** Ari terbangun di hutan ajaib yang hening. Hewan-hewan seperti **Kelinci** kebingungan dan kehilangan ingatan.
+
+
+* **Musuh & Tantangan:** **Memory Slime** menghalangi jalan Ari. Ari harus mengalahkan Slime menggunakan kekuatan ingatan (*Challenge: Memory*) untuk mengembalikan ingatan para hewan dan mendapatkan *Shard* pertama.
+
+
+
+
+2. **Stage 2: Crystal Cave**
+* **Cerita:** Berbekal petunjuk dari *Pendekar Tua*, Ari memasuki gua yang jalurnya berliku dan dipenuhi kristal menyala.
+
+
+* **Musuh & Tantangan:** **Pattern Bat** menyerang dari kegelapan. Ari harus membaca pola-pola kristal aneh (*Challenge: Pattern*) agar tidak tersesat di dalam gua.
+
+
+
+
+3. **Stage 3: Focus River**
+* **Cerita:** Keluar dari gua, Ari harus menyeberangi sungai deras yang penuh dengan proyeksi halusinasi ciptaan Forgettor.
+
+
+* **Musuh & Tantangan:** **Focus Frog** mencoba memecah konsentrasi Ari. Ari harus melatih fokusnya dengan memilih hal yang benar dan mengabaikan gangguan/halusinasi (*Challenge: Attention*).
+
+
+
+
+4. **Stage 4: Puzzle Village**
+* **Cerita:** Ari tiba di pemukiman warga desa (disambut *Tukang Kayu* dan *Gadis Desa*). Seluruh desa dalam kekacauan karena warga kehilangan kemampuan berhitung dan menyelesaikan masalah sehari-hari.
+
+
+* **Musuh & Tantangan:** **Puzzle Goblin** mengacaukan infrastruktur desa. Ari harus membantu warga memecahkan teka-teki hitungan matematika (*Challenge: Math & Problem Solving*).
+
+
+
+
+5. **Stage 5: Logic Castle**
+* **Cerita:** Ari mencapai benteng tua yang menjaga gerbang menuju alam Forgettor. Benteng ini dipenuhi jebakan berbasis logika.
+
+
+* **Musuh & Tantangan:** **Logic Knight** menjaga lorong-lorong kastil. Ari harus berpikir kritis dan menggunakan penalaran logis untuk membuka jalur (*Challenge: Logic*).
+
+
+
+
+6. **Final Stage: Shadow Castle (Final Boss - Forgettor)**
+* **Cerita:** Ari masuk ke markas kegelapan **Forgettor**. Forgettor bertarung bukan hanya dengan sihir, melainkan mencoba menghapus seluruh ingatan dan logika Ari.
+
+
+* **Mekanisme Boss:** Forgettor menggabungkan seluruh jenis tantangan (Memory, Pattern, Attention, Math, & Logic) secara bergantian (*Challenge: All Skills*). Setelah Forgettor kalah, *Crystal of Knowledge* kembali utuh, dan keharmonisan dunia Cogitata pulih.
+
+
+
+
+
+---
+
+### Versi 2: "The Awakening of Ari" (Gaya Suasana Personifikasi & Emosional)
+
+**Latar Belakang World:**
+Dunia tempat Ari tinggal bukanlah alam fisik biasa, melainkan pikiran seorang akademisi/pelajar yang sedang mengalami kemunduran mental dan kehilangan ingatan akibat rasa putus asa. **Forgettor** adalah manifestasi dari keputusasaan, rasa lelah, dan sikap skeptis terhadap ilmu pengetahuan. **Lumi** merepresentasikan sisa rasa ingin tahu (*curiosity*) yang memanggil **Ari** (kesadaran diri) untuk memulihkan kapasitas otak dan kognitif tempat tinggal mereka.
+
+---
+
+#### Alur Perjalanan Stage:
+
+1. **Prolog & Stage 1: Memory Forest (Fase Mengingat)**
+* **Cerita:** Ari muncul di bagian memori jangka pendek yang terbengkalai. Hewan-hewan mewakili ingatan-ingatan kecil yang memudar.
+
+
+* **Musuh & Tantangan:** **Memory Slime** merepresentasikan amnesia ringan. Ari harus menyusun kembali memori dasar untuk melangkah maju (*Challenge: Memory*).
+
+
+
+
+2. **Stage 2: Crystal Cave (Fase Mengenali Pola)**
+* **Cerita:** Ari masuk ke area persepsi visual. Gua ini penuh dengan struktur kristal berpola.
+
+
+* **Musuh & Tantangan:** **Pattern Bat** membingungkan penglihatan Ari. Ari dituntut menemukan keteraturan di tengah kekacauan warna dan bentuk (*Challenge: Pattern*).
+
+
+
+
+3. **Stage 3: Focus River (Fase Mengatasi Distraksi)**
+* **Cerita:** Alam pikiran Ari dibanjiri oleh kebisingan informasi dan krisis fokus.
+
+
+* **Musuh & Tantangan:** **Focus Frog** melemparkan berbagai distraksi. Ari harus menyaring stimulus negatif dan memprioritaskan target utama (*Challenge: Attention*).
+
+
+
+
+4. **Stage 4: Puzzle Village (Fase Analisis Praktis)**
+* **Cerita:** Ari melangkah ke pusat pemrosesan kuantitatif dan pemecahan masalah sehari-hari. *Tukang Kayu* dan *Gadis Desa* adalah simbol dari fungsi pemikiran praktis.
+
+
+* **Musuh & Tantangan:** **Puzzle Goblin** merusak perhitungan angka. Ari harus menyelesaikan persamaan matematis dan pemecahan teka-teki logika sederhana (*Challenge: Math & Problem Solving*).
+
+
+
+
+5. **Stage 5: Logic Castle (Fase Penalaran Tingkat Tinggi)**
+* **Cerita:** Ari memasuki struktur pikiran paling mendalam yaitu penalaran abstrak.
+
+
+* **Musuh & Tantangan:** **Logic Knight** menguji konsistensi argumen dan keputusan Ari. Ari bertarung menggunakan kebenaran logika (*Challenge: Logic*).
+
+
+
+
+6. **Final Stage: Shadow Castle (Final Boss - Forgettor)**
+* **Cerita:** Ari berhadapan langsung dengan akar kemunduran kesadaran, **Forgettor**.
+
+
+* **Mekanisme Boss:** Forgettor menguji seluruh elemen kognitif Ari sekaligus. Ari harus membuktikan bahwa kesadaran, fokus, ingatan, dan logika telah bersatu kembali (*Challenge: All Skills*). Kemenangan Ari mengembalikan kejernihan pikiran secara utuh.
+
+
+
+
+
+---
+
+**Saran Tambahan untuk Implementation di Greenfoot:**
+
+* **Versi 1** cocok jika ingin membuat *vibe* petualangan RPG yang menyenangkan bagi penguji/dosen.
+* **Versi 2** cocok jika kelompok ingin memberikan latar cerita yang sedikit lebih dalam (*meaningful*).
+* Aset desain di gambar sudah sangat rapi (GUI, Icon Challenge, Sprite Karakter & Item Shard/Potion/Coin), sehingga tinggal memetakan setiap `World` subclass di Greenfoot sesuai 6 stage tersebut.
