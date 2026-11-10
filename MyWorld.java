@@ -13,34 +13,47 @@ public class MyWorld extends World
      * Constructor for objects of class MyWorld.
      * 
      */
-    public MyWorld()
-    {    
-        // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
-        super(800, 600, 1); 
+    private GreenfootSound bgm = new GreenfootSound("Prelude_MainMenuSong.mp3");
+
+    public MyWorld() {    
+        super(770, 600, 1);
+        // JANGAN letakkan bgm.playLoop() di sini!
         prepare();
     }
-    
-    /**
-     * Prepare the world for the start of the program.
-     * That is: create the initial objects and add them to the world.
-     */
-    private void prepare()
-    {
-        camel camel = new camel();
-        addObject(camel,296,343);
-        bee bee = new bee();
-        addObject(bee,347,203);
-        bee bee2 = new bee();
-        addObject(bee2,217,132);
-        camel camel2 = new camel();
-        addObject(camel2,165,323);
-        camel.setLocation(259,344);
-        camel.setLocation(66,365);
-        bee2.setLocation(97,86);
-        bee.setLocation(134,171);
-        bee bee3 = new bee();
-        addObject(bee3,190,79);
-        bee3.setLocation(190,79);
+
+    // Akan otomatis berjalan HANYA KETIKA tombol RUN diklik
+    public void started() {
+        bgm.playLoop();
     }
 
+    // Akan otomatis berhenti KETIKA tombol PAUSE atau RESET diklik
+    public void stopped() {
+        bgm.pause(); // Atau bgm.stop()
+    }
+    // Panggil method untuk menyiapkan objek di dalam world
+    
+    private void prepare()
+    {
+        // 1. Buat objek baru dari btnPlay
+        btnPlay playButton = new btnPlay();
+
+        // 2. Masukkan ke dalam world pada koordinat x dan y tertentu (misal: 300, 200)
+        addObject(playButton, 380, 412);
+        btnPlay btnPlay = new btnPlay();
+        addObject(btnPlay,388,418);
+        btnPlay.setLocation(385,410);
+        btnPlay.setLocation(381,410);
+        btnQuit btnQuit = new btnQuit();
+        addObject(btnQuit,356,516);
+        btnQuit.setLocation(364,513);
+        btnQuit.setLocation(364,513);
+        btnQuit.setLocation(374,515);
+        btnSetting btnSetting = new btnSetting();
+        addObject(btnSetting,397,459);
+        btnSetting.setLocation(387,463);
+        btnSetting.setLocation(382,463);
+        btnPlay.setLocation(433,408);
+        btnPlay.setLocation(389,412);
+        btnPlay.setLocation(381,412);
+    }
 }

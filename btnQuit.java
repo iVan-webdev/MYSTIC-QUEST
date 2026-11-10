@@ -1,19 +1,19 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class bee here.
+ * Write a description of class btnQuit here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class bee extends Actor
+public class btnQuit extends Actor
 {
     /**
-     * Act - do whatever the bee wants to do. This method is called whenever
+     * Act - do whatever the btnQuit wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act()
     {
-        turn(5);
+        // Add your action code here.
     }
 }
